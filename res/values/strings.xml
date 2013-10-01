@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ProductManager</string>
+    <string name="app_name">ProductManager</string><string name="buttonAddOutput">Add output</string><string name="buttonReports">Reports</string>
 </resources>
